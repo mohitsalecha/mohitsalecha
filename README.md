@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohitsalecha
 - 👀 I’m interested in coding, innovation, sports, socialize
-- 🌱 I’m currently learning AWS and dot net core
+- 🌱 I’m currently exploring AWS, Docker and dot net microservices architechture
 - 💞️ I’m looking to collaborate on AWS
 - 📫 How to reach me https://www.linkedin.com/in/mohitsalecha/
 
